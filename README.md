@@ -4,6 +4,7 @@
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
 
+
 **APPARATUS REQUIRED:**
 
 *1.	Regulated Power supply ( RPS)	(0-30 V)*
@@ -16,15 +17,19 @@
 
 *5.	Bread board	---	1*
 
+
 **THEORY:**
 
 *Kirchhoff’s Current Law (KCL) states that, ‘in an electric network, the algebraic sum of currents meeting at any junction is zero’. Since charges can never accumulate at any point, the charges flowing towards a junction must be equal to the charges flowing away from the junction.*
 
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
+
 **CIRCUIT DIAGRAM:**
 
 ![IMG_20251009_035340_1 1](https://github.com/user-attachments/assets/a22ff0cf-cd61-46e1-b596-25ad5b129ce7)
+
+
 
 **PROCEDURE:**
 
@@ -40,19 +45,28 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
+
+
  **TABULATION:**
 
 ![IMG_20251009_035349_1](https://github.com/user-attachments/assets/28a1766f-f3fa-4347-b86e-2acc058257db)
+
+
 
 **CALCULATION:**
 
 
 ![IMG_20251009_035357_1](https://github.com/user-attachments/assets/8d884d98-f923-4fbe-ab2b-4b29f963dd1f)
 
+
+
 **MARK SPLIT-UP:**
 
 
 ![IMG_20251009_043348](https://github.com/user-attachments/assets/188ed759-fede-4a43-9965-8e23bf921def)
+
+
+
 
 
 
